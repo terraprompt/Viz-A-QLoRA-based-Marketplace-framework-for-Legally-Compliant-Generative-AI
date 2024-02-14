@@ -7,3 +7,7 @@ This paper aims to introduce and analyze the Viz system in a comprehensive way, 
 Arxiv: https://arxiv.org/abs/2401.00503
 
 PDF: https://arxiv.org/pdf/2401.00503.pdf
+
+
+This is now being developed into a blockchain procotol called [CREATE](https://www.createprotocol.org/). 
+The whitepaper is available [here](https://github.com/create-protocol/research-paper-100x).
